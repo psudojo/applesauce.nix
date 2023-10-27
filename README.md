@@ -1,1 +1,1 @@
-# macConfig
+# applesauce.nix
